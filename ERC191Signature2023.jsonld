@@ -82,7 +82,7 @@
         },
         "proofValue": {
           "@id": "https://w3id.org/security#proofValue",
-          "@type": "http://www.w3.org/2001/XMLSchema#hexBinary"
+          "@type": "http://www.w3.org/2001/XMLSchema#string"
         },
         "verificationMethod": {
           "@id": "https://w3id.org/security#verificationMethod",
