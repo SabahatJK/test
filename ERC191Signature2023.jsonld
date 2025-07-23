@@ -82,7 +82,7 @@
         },
         "proofValue": {
           "@id": "https://w3id.org/security#proofValue",
-          "@type": "https://www.w3.org/2001/XMLSchema#string"
+          "@type": "@id"
         },
         "verificationMethod": {
           "@id": "https://w3id.org/security#verificationMethod",
